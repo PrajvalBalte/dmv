@@ -1,0 +1,214 @@
+{
+  "sales": [
+    {
+      "product": "Product A",
+      "quantity": 100,
+      "region": "North",
+      "revenue": 1000,
+      "salesperson": "John"
+    },
+    {
+      "product": "Product B",
+      "quantity": 200,
+      "region": "South",
+      "revenue": 2000,
+      "salesperson": "Jane"
+    },
+    {
+      "product": "Product A",
+      "quantity": 300,
+      "region": "East",
+      "revenue": 3000,
+      "salesperson": "Bob"
+    },
+    {
+      "product": "Product B",
+      "quantity": 400,
+      "region": "West",
+      "revenue": 4000,
+      "salesperson": "Alice"
+    },
+    {
+      "product": "Product A",
+      "quantity": 150,
+      "region": "North",
+      "revenue": 1500,
+      "salesperson": "Sarah"
+    },
+    {
+      "product": "Product B",
+      "quantity": 250,
+      "region": "South",
+      "revenue": 2500,
+      "salesperson": "Mike"
+    },
+    {
+      "product": "Product A",
+      "quantity": 350,
+      "region": "East",
+      "revenue": 3500,
+      "salesperson": "Emily"
+    },
+    {
+      "product": "Product B",
+      "quantity": 450,
+      "region": "West",
+      "revenue": 4500,
+      "salesperson": "David"
+    },
+    {
+      "product": "Product A",
+      "quantity": 175,
+      "region": "North",
+      "revenue": 1750,
+      "salesperson": "Lisa"
+    },
+    {
+      "product": "Product B",
+      "quantity": 275,
+      "region": "South",
+      "revenue": 2750,
+      "salesperson": "Tom"
+    },
+    {
+      "product": "Product A",
+      "quantity": 325,
+      "region": "East",
+      "revenue": 3250,
+      "salesperson": "Anna"
+    },
+    {
+      "product": "Product B",
+      "quantity": 425,
+      "region": "West",
+      "revenue": 4250,
+      "salesperson": "Chris"
+    },
+    {
+      "product": "Product A",
+      "quantity": 125,
+      "region": "North",
+      "revenue": 1250,
+      "salesperson": "Rachel"
+    },
+    {
+      "product": "Product B",
+      "quantity": 225,
+      "region": "South",
+      "revenue": 2250,
+      "salesperson": "Peter"
+    },
+    {
+      "product": "Product A",
+      "quantity": 375,
+      "region": "East",
+      "revenue": 3750,
+      "salesperson": "Maria"
+    },
+    {
+      "product": "Product B",
+      "quantity": 475,
+      "region": "West",
+      "revenue": 4750,
+      "salesperson": "James"
+    },
+    {
+      "product": "Product A",
+      "quantity": 225,
+      "region": "North",
+      "revenue": 2250,
+      "salesperson": "Karen"
+    },
+    {
+      "product": "Product B",
+      "quantity": 325,
+      "region": "South",
+      "revenue": 3250,
+      "salesperson": "Steven"
+    },
+    {
+      "product": "Product A",
+      "quantity": 425,
+      "region": "East",
+      "revenue": 4250,
+      "salesperson": "Lucy"
+    },
+    {
+      "product": "Product B",
+      "quantity": 525,
+      "region": "West",
+      "revenue": 5250,
+      "salesperson": "Mark"
+    },
+    {
+      "product": "Product A",
+      "quantity": 275,
+      "region": "North",
+      "revenue": 2750,
+      "salesperson": "Nancy"
+    },
+    {
+      "product": "Product B",
+      "quantity": 375,
+      "region": "South",
+      "revenue": 3750,
+      "salesperson": "Paul"
+    },
+    {
+      "product": "Product A",
+      "quantity": 475,
+      "region": "East",
+      "revenue": 4750,
+      "salesperson": "Helen"
+    },
+    {
+      "product": "Product B",
+      "quantity": 575,
+      "region": "West",
+      "revenue": 5750,
+      "salesperson": "Daniel"
+    },
+    {
+      "product": "Product A",
+      "quantity": 325,
+      "region": "North",
+      "revenue": 3250,
+      "salesperson": "Laura"
+    },
+    {
+      "product": "Product B",
+      "quantity": 425,
+      "region": "South",
+      "revenue": 4250,
+      "salesperson": "George"
+    },
+    {
+      "product": "Product A",
+      "quantity": 525,
+      "region": "East",
+      "revenue": 5250,
+      "salesperson": "Diana"
+    },
+    {
+      "product": "Product B",
+      "quantity": 625,
+      "region": "West",
+      "revenue": 6250,
+      "salesperson": "Frank"
+    },
+    {
+      "product": "Product A",
+      "quantity": 375,
+      "region": "North",
+      "revenue": 3750,
+      "salesperson": "Carol"
+    },
+    {
+      "product": "Product B",
+      "quantity": 475,
+      "region": "South",
+      "revenue": 4750,
+      "salesperson": "Eric"
+    }
+    ]
+}
